@@ -1,6 +1,6 @@
 # react-issues
 Collect high quality questions and answers about react
-
-### Ref
-
+### setState
++ [RFClarification: why is `setState` asynchronous?](https://github.com/facebook/react/issues/11527)
+### ref
 + [componentDidMount called BEFORE ref callback](https://stackoverflow.com/questions/44074747/componentdidmount-called-before-ref-callback/50019873#50019873)
