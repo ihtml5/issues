@@ -1,5 +1,6 @@
-# react-issues
-Collect high quality questions and answers about react
+# Issues
+Collect high quality questions and answers
+## React
 ### setState
 + [RFClarification: why is `setState` asynchronous?](https://github.com/facebook/react/issues/11527)
 ### ref
